@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "servicebazarbd-client"
+    }
+  },
+  "defaultProject": "servicebazarbd-client",
+  "cli": {
+    "analytics": "4e0cf1d0-2b5f-49ea-9c79-094d9079c542"
+  }
 }
